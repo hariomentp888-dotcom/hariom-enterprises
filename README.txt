@@ -27,3 +27,9 @@ After uploading:
 2. Test https://hariomentp888-dotcom.github.io/hariom-enterprises/
 3. In Google Search Console, open URL Inspection and Request Indexing for the homepage and important product pages.
 4. Submit sitemap.xml if needed.
+
+
+PROFESSIONAL IMAGE UPDATE
+- Added original Hariom Enterprises branded steel/warehouse hero image.
+- Added matching product images for MS pipes, MS plates, square tubes, C/Z purlins, solar purlins and structural steel.
+- Upload the entire contents of this package to the root of the GitHub Pages repository.

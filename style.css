@@ -14,3 +14,19 @@
 footer{background:#0d1419;color:#cbd4d9;padding:55px 0 0}.footer-grid{display:grid;grid-template-columns:1.5fr 1fr 1fr;gap:50px}.footer-grid>div{display:flex;flex-direction:column;gap:8px;font-size:13px}.footer-grid b{color:#fff;margin-bottom:6px}.footer-brand{margin:0}.footer-grid p{color:#849199}.copyright{text-align:center;border-top:1px solid #263139;margin-top:45px;padding:18px;font-size:11px;color:#77838b}
 @media(max-width:900px){.nav nav,.nav-quote{display:none}.menu{display:block;order:3}.nav{position:relative}.nav nav.open{display:flex;position:absolute;top:76px;left:0;right:0;background:#fff;padding:20px;flex-direction:column;box-shadow:var(--shadow)}.hero-grid,.split-grid,.contact-grid{grid-template-columns:1fr}.hero{min-height:760px}.hero-card{transform:none}.product-grid{grid-template-columns:repeat(2,1fr)}.why-grid{grid-template-columns:repeat(2,1fr)}.section-head{display:block}.section-head>p{margin-top:18px}.topbar .wrap{display:none}.banner-inner{display:block}.banner-inner .btn{margin-top:20px}.image-panel img{height:380px}}
 @media(max-width:560px){.product-grid,.why-grid{grid-template-columns:1fr}.hero h1{font-size:46px}.section{padding:70px 0}.hero{min-height:720px}.hero-points{display:grid}.checks{grid-template-columns:1fr}.footer-grid{grid-template-columns:1fr}.actions{flex-direction:column}.btn{width:100%}}
+
+/* Hariom Enterprises premium generated imagery */
+.hero {
+  background:
+    linear-gradient(90deg, rgba(4,10,18,.90) 0%, rgba(4,10,18,.68) 42%, rgba(4,10,18,.20) 100%),
+    url("images/hariom-steel-hero.jpg") center/cover no-repeat;
+  min-height: 620px;
+  display: flex;
+  align-items: center;
+}
+.product-card img, .product-image img {
+  width: 100%;
+  height: 240px;
+  object-fit: cover;
+  border-radius: 14px;
+}
