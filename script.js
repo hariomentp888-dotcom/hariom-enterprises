@@ -19,7 +19,7 @@ document.getElementById("quoteForm").addEventListener("submit", function(e) {
   const phone = document.getElementById("phone").value;
   const product = document.getElementById("product").value;
   const message = document.getElementById("message").value;
-  const whatsappNumber = "91XXXXXXXXXX"; // Replace with your WhatsApp number
+  const whatsappNumber = "918871463799"; // Replace with your WhatsApp number
   const text = `Hello Hariom Enterprises,%0A%0AName: ${name}%0APhone: ${phone}%0AProduct: ${product}%0ARequirement: ${message}`;
   window.open(`https://wa.me/${whatsappNumber}?text=${text}`, "_blank");
 });
