@@ -1,7 +1,8 @@
-Hariom Enterprises Website
+HARIOM ENTERPRISES - PROFESSIONAL WEBSITE
 
-Phone / WhatsApp: +91 88714 63799
-Email: hariomentp888@gmail.com
-Address: Block No. 1, Plot No. 159, Transport Nagar, Raipur, Chhattisgarh 493221
+Upload the CONTENTS of this folder into the ROOT of your GitHub repository:
+hariomentp888-dotcom/hariom-enterprises
 
-Upload index.html, style.css and script.js to GitHub Pages.
+Do not upload the ZIP file itself into the website root.
+
+The package includes a professional responsive homepage, industrial/warehouse images, product links, phone and WhatsApp buttons, SEO metadata, Google verification tag, robots.txt and sitemap.xml.
