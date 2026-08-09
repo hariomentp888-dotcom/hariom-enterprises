@@ -1,0 +1,5 @@
+UPLOAD TO THE ROOT OF YOUR GITHUB REPOSITORY.
+Keep your existing index.html, style.css and script.js.
+Upload all files in this package.
+After Pages updates, open /sitemap.xml and submit sitemap.xml in Google Search Console.
+Then request indexing for each new product URL.
