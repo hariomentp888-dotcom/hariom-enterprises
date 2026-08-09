@@ -1,8 +1,29 @@
-HARIOM ENTERPRISES - PROFESSIONAL WEBSITE
+HARIOM ENTERPRISES - PROFESSIONAL SEO WEBSITE
 
-Upload the CONTENTS of this folder into the ROOT of your GitHub repository:
-hariomentp888-dotcom/hariom-enterprises
+Upload the CONTENTS of this folder to the root of:
+https://github.com/hariomentp888-dotcom/hariom-enterprises
 
-Do not upload the ZIP file itself into the website root.
+Main website:
+https://hariomentp888-dotcom.github.io/hariom-enterprises/
 
-The package includes a professional responsive homepage, industrial/warehouse images, product links, phone and WhatsApp buttons, SEO metadata, Google verification tag, robots.txt and sitemap.xml.
+Included:
+- index.html
+- style.css
+- script.js
+- robots.txt
+- sitemap.xml
+- contact.html
+- 7 SEO product pages
+
+Google Search Console:
+The verification meta tag supplied earlier is included in the HTML.
+Do not remove it.
+
+IMPORTANT:
+This version uses remote Unsplash image URLs for industrial visuals, so the site stays lightweight. Replace these with your own warehouse/product photos later for stronger local branding.
+
+After uploading:
+1. Open GitHub Pages and wait for deployment.
+2. Test https://hariomentp888-dotcom.github.io/hariom-enterprises/
+3. In Google Search Console, open URL Inspection and Request Indexing for the homepage and important product pages.
+4. Submit sitemap.xml if needed.

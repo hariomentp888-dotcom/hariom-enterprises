@@ -1,1 +1,8 @@
-document.querySelector('.menu').addEventListener('click',()=>{const n=document.querySelector('nav');n.style.display=n.style.display==='flex'?'none':'flex';n.style.position='absolute';n.style.top='78px';n.style.right='4%';n.style.background='#fff';n.style.padding='18px';n.style.flexDirection='column';n.style.boxShadow='0 8px 20px #0002'});
+document.querySelector('.menu')?.addEventListener('click',()=>document.querySelector('nav').classList.toggle('open'));
+document.querySelectorAll('nav a').forEach(a=>a.addEventListener('click',()=>document.querySelector('nav').classList.remove('open')));
+function sendWhatsApp(e){
+ e.preventDefault();
+ const n=document.getElementById('name').value, p=document.getElementById('product').value, q=document.getElementById('qty').value, m=document.getElementById('message').value;
+ const text=`Hello Hariom Enterprises,%0A%0AName: ${encodeURIComponent(n)}%0AProduct: ${encodeURIComponent(p)}%0AQuantity/Size: ${encodeURIComponent(q)}%0ADetails: ${encodeURIComponent(m)}`;
+ window.open(`https://wa.me/918871463799?text=${text}`,'_blank');
+}
