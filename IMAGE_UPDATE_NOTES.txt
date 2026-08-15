@@ -1,0 +1,4 @@
+Updated all product and hero images to the new clean professional industrial style.
+Product assets: ms-plates.jpg, ms-pipes.jpg, ms-square-tubes.jpg, c-purlins.jpg, z-purlins.jpg, solar-purlins.jpg, structural-steel.jpg.
+Hero/banner assets: hariom-steel-hero.jpg and warehouse.jpg.
+All assets are local; the CSS no longer relies on external Unsplash images.
